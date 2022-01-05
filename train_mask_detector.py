@@ -21,7 +21,7 @@ import os
 INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
-DIRECTORY = r"C:\Users\Sim Shao Hern\DetectMask\dataset"
+DIRECTORY = r"C:\Users\" #Location of file
 CATEGORIES = ["with_mask", "without_mask"]
 print("[INFO] loading images...")
 data = []
